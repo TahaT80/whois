@@ -17,7 +17,7 @@ def __start__():
         print(Fore.RED+"\n [!] Plase Enter IP/Domain")
         print(Fore.RED+"\n [!] for exampel : test.com\n")
 
-        inp = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"tahat80"+Fore.BLUE+"~"+Fore.WHITE+"@Get-web-information"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"Whois"+Fore.RED+"""]
+        inp = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"tahat80"+Fore.BLUE+"/"+Fore.WHITE+"Get-web-information"+Fore.RED+"/"+Fore.LIGHTYELLOW_EX+"Whois"+Fore.RED+"""]
  └─╼ """+Fore.WHITE+">> ")
         result = requests.get(
             'http://api.hackertarget.com/whois/?q=' + inp).text
