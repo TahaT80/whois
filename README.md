@@ -3,9 +3,11 @@ Get web information for hack
 """
         API count exceeded - Increase Quota with Membership
         If you encounter an error (API count exceeded - Increase Quota with Membership)   you need a VPN
-
-
+        
+        
+        
         creat by Amir Hossein Tadas & TAHA
+        instagram = Taha_t_80
 """
 
 You can get information such as domain, ascii, remark, admin-c, nserver, person, e-mail, address, phone, address, etc.
